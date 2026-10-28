@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ControlIoT</string>
+    <string name="estado_conectado">Estado: Conectado a IoT</string>
+</resources>
